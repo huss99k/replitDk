@@ -1,0 +1,1 @@
+Create and implement the class Clock. The class has no constructors and three instance variables. One is of type int called hours, initialized to 12, another is of type boolean called isTicking, initialized to true, and the last one is of type int called diff, initialized to 5.

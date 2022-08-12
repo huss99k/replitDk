@@ -1,0 +1,1 @@
+Create and implement the class Clock. The class has no constructors and one instance variable of type int called hours.

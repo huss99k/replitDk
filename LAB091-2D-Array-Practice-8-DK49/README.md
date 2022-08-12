@@ -1,0 +1,1 @@
+Complete the isSquare method so that it takes in a 2-D integer array as a parameter and checks if it is a square array, meaning, if its rows and columns are equal.
