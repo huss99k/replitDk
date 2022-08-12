@@ -1,0 +1,1 @@
+Complete the method doubleArr method so that it doubles the values of every element in the array.  Nothing should be returned - the array should be modified by the method.
