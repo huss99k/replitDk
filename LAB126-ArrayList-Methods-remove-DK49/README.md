@@ -1,0 +1,1 @@
+Implement the method that removes the all the elements except the last one from an ArrayList of Doubles.

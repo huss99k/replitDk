@@ -1,0 +1,1 @@
+Implement the method that takes in an ArrayList of Integers and multiplies every value of the ArrayList by two.

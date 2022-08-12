@@ -1,0 +1,1 @@
+Implement the method that takes two parameters - a List of Strings called wordList1, and a List of Strings called wordList2 and returns a new ArrayList of Strings which combines all the elements from the two Lists.
